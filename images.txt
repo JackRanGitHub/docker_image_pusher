@@ -1,5 +1,6 @@
 nginx
 mysql
 redis
+etcd
 guacamole/guacd
 guacamole/guacamole
