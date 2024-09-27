@@ -2,5 +2,5 @@ nginx
 mysql
 redis
 etcd
-guacamole/guacd
-guacamole/guacamole
+guacamole/guacd:latest
+guacamole/guacamole:latest
