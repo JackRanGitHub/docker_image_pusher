@@ -3,3 +3,4 @@ mysql
 redis
 guacamole/guacd:latest
 guacamole/guacamole:latest
+debian:bullseye-slim
