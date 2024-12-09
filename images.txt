@@ -5,3 +5,4 @@ guacamole/guacd:latest
 guacamole/guacamole:latest
 debian:bullseye-slim
 keyurbhole/flutter_web_desk:v1.0.0
+elasticsearch:8.16.1
